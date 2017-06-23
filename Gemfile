@@ -60,3 +60,6 @@ gem 'jquery-rails'
 
 gem 'payjp'
 #gem 'jquery-turbolinks'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
+gem 'dotenv-rails'
